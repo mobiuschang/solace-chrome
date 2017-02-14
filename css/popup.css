@@ -1,0 +1,50 @@
+body {
+  width: 400px;
+  height: 220px;
+}
+.vertical-offset-10{
+  padding-top:10px;
+}
+
+#loginHeader {
+  text-align: center;
+}
+
+#invalid {
+  margin-top: 10%;
+  text-align: center;
+  font-size: 1em;
+  color: red;
+  font-weight: bold;
+  margin-top: 1%;
+  display: none;
+}
+
+#submit-button {
+  margin-top: 3%;
+  float: right;
+}
+
+#logout-button {
+  margin-top: 3%;
+}
+
+.text-form {
+  margin-top: 5%;
+  display:none;
+}
+
+#login-container{
+  display: none;
+}
+
+#watson-posted {
+  display: none;
+  text-align: center;
+  color: green;
+  margin-bottom: 2%;
+}
+
+#character-count {
+  text-align: right;
+}
